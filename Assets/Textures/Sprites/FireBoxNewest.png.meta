@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 260ac6e4be9fd7e4bbd659db111e7efa
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FireBoxNewest_0
+    21300002: FireBoxNewest_1
+    21300004: FireBoxNewest_2
+    21300006: FireBoxNewest_3
+    21300008: FireBoxNewest_4
+    21300010: FireBoxNewest_5
+    21300012: FireBoxNewest_6
+    21300014: FireBoxNewest_7
+    21300016: FireBoxNewest_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FireBoxNewest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: -61}
+        - {x: -39, y: -63}
+        - {x: -39, y: -64}
+        - {x: 31, y: -64}
+        - {x: 30, y: -60}
+        - {x: 14, y: -59}
+        - {x: -14, y: -59}
+        - {x: -32, y: -60}
+      - - {x: 39, y: 60}
+        - {x: -55, y: 60}
+        - {x: -57, y: 44}
+        - {x: -57, y: -52}
+        - {x: -33, y: -59}
+        - {x: 25, y: -59}
+        - {x: 36, y: -56}
+        - {x: 53, y: -32}
+        - {x: 53, y: 25}
+    - name: FireBoxNewest_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -34}
+        - {x: 60, y: 5}
+        - {x: 39, y: 60}
+        - {x: -35, y: 60}
+        - {x: -64, y: 27}
+        - {x: -64, y: -64}
+        - {x: 60, y: -64}
+        - {x: 60, y: -61}
+        - {x: 48, y: -52}
+    - name: FireBoxNewest_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -56, y: 41}
+        - {x: -56, y: -33}
+        - {x: -30, y: -57}
+        - {x: -28, y: -57}
+        - {x: -31, y: -57}
+        - {x: -36, y: -58}
+        - {x: -42, y: -60}
+        - {x: -46, y: -63}
+        - {x: -46, y: -64}
+        - {x: 44, y: -64}
+        - {x: 57, y: -54}
+        - {x: 57, y: 38}
+        - {x: 51, y: 64}
+    - name: FireBoxNewest_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -55}
+        - {x: -61, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 63}
+        - {x: 55, y: 64}
+    - name: FireBoxNewest_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -62}
+        - {x: -62, y: -64}
+        - {x: 60, y: -64}
+        - {x: 64, y: -59}
+        - {x: 64, y: 61}
+        - {x: 61, y: 64}
+    - name: FireBoxNewest_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 63, y: -64}
+        - {x: 64, y: -55}
+        - {x: 64, y: 62}
+        - {x: 62, y: 64}
+    - name: FireBoxNewest_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 64}
+        - {x: -58, y: 46}
+        - {x: -58, y: -33}
+        - {x: -48, y: -60}
+        - {x: 53, y: -60}
+        - {x: 55, y: -49}
+        - {x: 55, y: 46}
+        - {x: 39, y: 64}
+    - name: FireBoxNewest_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 64}
+        - {x: -61, y: -52}
+        - {x: -44, y: -59}
+        - {x: 46, y: -59}
+        - {x: 59, y: -33}
+        - {x: 59, y: 64}
+    - name: FireBoxNewest_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 64}
+        - {x: -57, y: 50}
+        - {x: -57, y: -37}
+        - {x: -51, y: -57}
+        - {x: 53, y: -57}
+        - {x: 53, y: 23}
+        - {x: 33, y: 64}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

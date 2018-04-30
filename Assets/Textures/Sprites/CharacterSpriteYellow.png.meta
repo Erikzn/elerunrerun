@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: 9d53db4084f6e7646a0d49508067a4db
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CharacterSpriteYellow_0
+    21300002: CharacterSpriteYellow_1
+    21300004: CharacterSpriteYellow_2
+    21300006: CharacterSpriteYellow_3
+    21300008: CharacterSpriteYellow_4
+    21300010: CharacterSpriteYellow_5
+    21300012: CharacterSpriteYellow_6
+    21300014: CharacterSpriteYellow_7
+    21300016: CharacterSpriteYellow_8
+    21300018: CharacterSpriteYellow_9
+    21300020: CharacterSpriteYellow_10
+    21300022: CharacterSpriteYellow_11
+    21300024: CharacterSpriteYellow_12
+    21300026: CharacterSpriteYellow_13
+    21300028: CharacterSpriteYellow_14
+    21300030: CharacterSpriteYellow_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CharacterSpriteYellow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 59}
+        - {x: 18, y: 62}
+        - {x: -18, y: 62}
+        - {x: -54, y: -2}
+        - {x: -54, y: -40}
+        - {x: -46, y: -45}
+        - {x: -34, y: -41}
+        - {x: 8, y: -52}
+        - {x: 44, y: -52}
+        - {x: 47, y: -51}
+        - {x: 47, y: -35}
+        - {x: 36, y: 29}
+    - name: CharacterSpriteYellow_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 64}
+        - {x: -49, y: 22}
+        - {x: -49, y: -43}
+        - {x: -10, y: -52}
+        - {x: 24, y: -52}
+        - {x: 24, y: 53}
+        - {x: 22, y: 64}
+    - name: CharacterSpriteYellow_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 58}
+        - {x: 10, y: 61}
+        - {x: -17, y: 61}
+        - {x: -24, y: 51}
+        - {x: -38, y: -3}
+        - {x: -38, y: -39}
+        - {x: -31, y: -49}
+        - {x: -22, y: -54}
+        - {x: -4, y: -54}
+        - {x: 0, y: -53}
+        - {x: 8, y: -43}
+        - {x: 25, y: -5}
+        - {x: 25, y: 40}
+    - name: CharacterSpriteYellow_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 64}
+        - {x: -23, y: 58}
+        - {x: -23, y: -54}
+        - {x: 14, y: -54}
+        - {x: 36, y: -26}
+        - {x: 36, y: 58}
+        - {x: 32, y: 64}
+    - name: CharacterSpriteYellow_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 64}
+        - {x: -3, y: 64}
+        - {x: -25, y: 30}
+        - {x: -29, y: -3}
+        - {x: -29, y: -52}
+        - {x: 24, y: -52}
+        - {x: 39, y: -6}
+        - {x: 39, y: 48}
+    - name: CharacterSpriteYellow_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 62}
+        - {x: -12, y: 62}
+        - {x: -38, y: 8}
+        - {x: -38, y: -53}
+        - {x: -3, y: -53}
+        - {x: 28, y: -39}
+        - {x: 32, y: -23}
+        - {x: 32, y: 40}
+        - {x: 30, y: 60}
+      - - {x: -5, y: -29}
+        - {x: -3, y: -31}
+        - {x: 0, y: -30}
+        - {x: 0, y: -27}
+        - {x: -2, y: -25}
+        - {x: -5, y: -26}
+    - name: CharacterSpriteYellow_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 62}
+        - {x: -8, y: 62}
+        - {x: -52, y: 21}
+        - {x: -52, y: -52}
+        - {x: -10, y: -52}
+        - {x: 36, y: -39}
+        - {x: 38, y: -27}
+        - {x: 38, y: 45}
+      - - {x: 39, y: 58}
+        - {x: 39, y: 54}
+        - {x: 40, y: 52}
+        - {x: 43, y: 52}
+        - {x: 47, y: 56}
+        - {x: 46, y: 59}
+        - {x: 42, y: 59}
+    - name: CharacterSpriteYellow_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 46}
+        - {x: 21, y: 63}
+        - {x: -2, y: 63}
+        - {x: -12, y: 56}
+        - {x: -52, y: -36}
+        - {x: -52, y: -52}
+        - {x: 5, y: -52}
+        - {x: 39, y: -41}
+        - {x: 39, y: 20}
+        - {x: 37, y: 36}
+      - - {x: -23, y: -37}
+        - {x: -30, y: -40}
+        - {x: -30, y: -41}
+        - {x: -28, y: -44}
+        - {x: -23, y: -43}
+        - {x: -19, y: -40}
+        - {x: -19, y: -38}
+        - {x: -21, y: -37}
+      - - {x: -20, y: -35}
+        - {x: -18, y: -38}
+        - {x: -14, y: -37}
+        - {x: -11, y: -33}
+        - {x: -11, y: -31}
+        - {x: -14, y: -30}
+      - - {x: -27, y: 7}
+        - {x: -25, y: 5}
+        - {x: -22, y: 6}
+        - {x: -22, y: 9}
+        - {x: -24, y: 11}
+        - {x: -27, y: 10}
+      - - {x: 45, y: 48}
+        - {x: 48, y: 49}
+        - {x: 48, y: 52}
+        - {x: 45, y: 53}
+        - {x: 43, y: 51}
+      - - {x: 39, y: 58}
+        - {x: 39, y: 54}
+        - {x: 40, y: 52}
+        - {x: 43, y: 52}
+        - {x: 47, y: 56}
+        - {x: 46, y: 59}
+        - {x: 42, y: 59}
+    - name: CharacterSpriteYellow_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 64}
+        - {x: -24, y: 31}
+        - {x: -26, y: 26}
+        - {x: -48, y: -3}
+        - {x: -48, y: -33}
+        - {x: -45, y: -41}
+        - {x: -36, y: -40}
+        - {x: -4, y: -18}
+        - {x: 18, y: -51}
+        - {x: 27, y: -52}
+        - {x: 52, y: -52}
+        - {x: 52, y: -23}
+        - {x: 27, y: 64}
+      - - {x: -59, y: -33}
+        - {x: -60, y: -34}
+        - {x: -60, y: -39}
+        - {x: -58, y: -43}
+        - {x: -51, y: -43}
+        - {x: -47, y: -42}
+        - {x: -47, y: -36}
+        - {x: -53, y: -33}
+      - - {x: 38, y: -16}
+        - {x: 36, y: -16}
+        - {x: 33, y: -17}
+        - {x: 33, y: -25}
+        - {x: 35, y: -27}
+        - {x: 38, y: -27}
+        - {x: 40, y: -24}
+        - {x: 40, y: -19}
+      - - {x: -64, y: -4}
+        - {x: -61, y: -3}
+        - {x: -60, y: 4}
+        - {x: -62, y: 6}
+        - {x: -64, y: 6}
+    - name: CharacterSpriteYellow_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -62}
+        - {x: -8, y: -64}
+        - {x: -4, y: -64}
+        - {x: -3, y: -63}
+        - {x: -4, y: -60}
+        - {x: -7, y: -60}
+      - - {x: -9, y: 64}
+        - {x: -12, y: 55}
+        - {x: -16, y: 29}
+        - {x: -39, y: -12}
+        - {x: -39, y: -28}
+        - {x: -36, y: -37}
+        - {x: -29, y: -35}
+        - {x: -4, y: -54}
+        - {x: 33, y: -54}
+        - {x: 33, y: 64}
+    - name: CharacterSpriteYellow_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -64}
+        - {x: 3, y: -61}
+        - {x: -7, y: -61}
+        - {x: -8, y: -64}
+      - - {x: 26, y: 10}
+        - {x: 31, y: 19}
+        - {x: 35, y: 29}
+        - {x: 35, y: 41}
+        - {x: 27, y: 60}
+        - {x: 24, y: 64}
+        - {x: 2, y: 64}
+        - {x: -12, y: 59}
+        - {x: -20, y: 20}
+        - {x: -21, y: 12}
+        - {x: -26, y: -4}
+        - {x: -26, y: -38}
+        - {x: -13, y: -53}
+        - {x: 13, y: -53}
+        - {x: 18, y: -48}
+        - {x: 26, y: -18}
+        - {x: 32, y: 8}
+        - {x: 28, y: 10}
+    - name: CharacterSpriteYellow_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 64}
+        - {x: -23, y: 48}
+        - {x: -23, y: -33}
+        - {x: -19, y: -52}
+        - {x: 30, y: -52}
+        - {x: 39, y: -30}
+        - {x: 39, y: 46}
+        - {x: 23, y: 64}
+    - name: CharacterSpriteYellow_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 64}
+        - {x: -10, y: 64}
+        - {x: -30, y: 48}
+        - {x: -30, y: -9}
+        - {x: -16, y: -54}
+        - {x: 10, y: -54}
+        - {x: 13, y: -53}
+        - {x: 45, y: 17}
+        - {x: 45, y: 52}
+      - - {x: 7, y: -35}
+        - {x: 9, y: -37}
+        - {x: 12, y: -36}
+        - {x: 12, y: -33}
+        - {x: 10, y: -31}
+        - {x: 7, y: -32}
+    - name: CharacterSpriteYellow_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 11}
+        - {x: 26, y: 38}
+        - {x: 20, y: 64}
+        - {x: -24, y: 64}
+        - {x: -50, y: 56}
+        - {x: -51, y: 34}
+        - {x: -51, y: -50}
+        - {x: -37, y: -50}
+        - {x: -27, y: -43}
+        - {x: -28, y: -41}
+        - {x: 12, y: -28}
+    - name: CharacterSpriteYellow_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 64}
+        - {x: -31, y: 64}
+        - {x: -38, y: 63}
+        - {x: -60, y: 13}
+        - {x: -60, y: -47}
+        - {x: -58, y: -48}
+        - {x: -39, y: -48}
+        - {x: 8, y: -39}
+        - {x: 25, y: -2}
+        - {x: 25, y: 58}
+    - name: CharacterSpriteYellow_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 57}
+        - {x: 30, y: 64}
+        - {x: -19, y: 64}
+        - {x: -52, y: -26}
+        - {x: -52, y: -52}
+        - {x: -34, y: -52}
+        - {x: 33, y: -41}
+        - {x: 39, y: -24}
+        - {x: 45, y: 10}
+      - - {x: 53, y: 7}
+        - {x: 47, y: 7}
+        - {x: 44, y: 6}
+        - {x: 41, y: 0}
+        - {x: 41, y: -7}
+        - {x: 42, y: -10}
+        - {x: 47, y: -10}
+        - {x: 51, y: -7}
+        - {x: 53, y: -4}
+      - - {x: 25, y: 8}
+        - {x: 26, y: 5}
+        - {x: 29, y: 5}
+        - {x: 31, y: 7}
+        - {x: 30, y: 10}
+        - {x: 27, y: 10}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
